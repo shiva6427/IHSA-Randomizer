@@ -2,6 +2,7 @@
 
 .randomizePage {
   background-size: cover;
+  background-image: url('horse\ background.jpg');
   background-position: center;
   height: 100vh;
   display: flex;
