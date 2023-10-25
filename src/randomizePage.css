@@ -1,6 +1,7 @@
 /* randomizePage.css */
 
 .randomizePage {
+  background-image: url('.//horse\ background.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;
