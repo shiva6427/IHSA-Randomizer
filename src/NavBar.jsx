@@ -1,8 +1,5 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { GiHorseHead } from 'react-icons/gi';
-import { FaUserFriends } from 'react-icons/fa';
-import { BiShuffle } from 'react-icons/bi';
 import logo from './ihsalogo.png';
 import './navbar.css';
 import { Modal, message } from 'antd';
