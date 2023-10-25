@@ -4,6 +4,7 @@ import { saveAs } from 'file-saver';
 import ExcelJS from 'exceljs';
 import './randomizePage.css';
 import { Table } from 'semantic-ui-react';
+import NavBar from './NavBar';
 
 const RandomizePage = ({ userRole, handleLogout }) => {
   const [ridersFile, setRidersFile] = useState(null);
